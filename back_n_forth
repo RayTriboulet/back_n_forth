@@ -1,0 +1,9 @@
+  1 #!/bin/bash¬
+  2 ¬
+  3 cp ~/.bashrc ~/git-repos/dotfiles/.bashrc¬
+  4 cp ~/.zshrc ~/git-repos/dotfiles/.zshrc¬
+  5 cp ~/.tmux.conf ~/git-repos/dotfiles/.tmux.conf¬
+  6 cp ~/.vimrc ~/git-repos/dotfiles/.vimrc¬
+  7 cp ~/.oh-my-zsh.sh ~/git-repos/dotfiles/.oh-my-zsh.sh¬
+  8 ¬
+  9 cp ~/bin/back_n_forth ~/git-repos/back_n_forth/back_n_forth¬
